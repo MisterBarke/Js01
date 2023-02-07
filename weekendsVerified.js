@@ -1,5 +1,5 @@
 //je cree 
-var day = 'Lundi';
+var day = 'lundi';
 
 if(day === 'samedi' || day === 'dimanche'){
     console.log('weekend');
